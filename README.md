@@ -1,4 +1,6 @@
 # Zomato-Project
+Insights:
+
 Cuisine Preferences by Region:
 Identify regional preferences for cuisines and dishes to help restaurants tailor their menus and offerings accordingly.
 Highlight popular cuisines to attract more users and restaurant partners interested in those specific cuisines.
