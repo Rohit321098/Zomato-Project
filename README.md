@@ -1,16 +1,7 @@
 # Zomato-Project
-Insights:
-
-Cuisine Preferences by Region:
-Identify regional preferences for cuisines and dishes to help restaurants tailor their menus and offerings accordingly.
-Highlight popular cuisines to attract more users and restaurant partners interested in those specific cuisines.
-
-Consumer Behavior and Trends:
-Analyze trends in dining habits such as peak ordering times, popular menu items, and frequency of orders.
-Identify emerging trends in health-conscious dining, sustainable food choices, and culinary fusions to adapt platform offerings accordingly.
-
-Market Competition and Positioning:
-Evaluate market competitiveness among restaurants within specific cities or neighborhoods based on ratings, reviews, and pricing.
-Provide insights to restaurants on how they can differentiate themselves to attract more customers and improve their overall ratings.
+1. This Power BI project analyzes key metrics from Zomato’s restaurant data, providing insights into popular cuisines, city ratings, and service availability.
+2. The analysis includes identifying the top 10 cuisines based on votes and restaurant count, as well as the top 5 cities ranked by average customer ratings.
+3. Additionally, it highlights the top 5 cuisines based on the average cost for two and examines the percentage of restaurants offering table booking and online ordering services.
+4. By leveraging interactive dashboards, the project enables data-driven insights to better understand customer preferences and restaurant performance across regions.
 
 
